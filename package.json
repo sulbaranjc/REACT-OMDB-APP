@@ -5,7 +5,7 @@
   "description": "PROYECTO REACT SIN CREATE-REACT-APP",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --mode development ",
+    "start": "webpack-dev-server --mode development --open",
     "production": "webpack --mode production "
   },
   "keywords": [],
